@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023932969158",
+    "project_id": "automatik-df13f",
+    "storage_bucket": "automatik-df13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023932969158:android:c5291781310bf4e7f4a7c7",
+        "android_client_info": {
+          "package_name": "com.kg.automatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023932969158-aubu3um5d1at0ldtdkrptsr15lhp0ks9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOoy4w6taznF14kBTjm89dPfw0CVJTWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023932969158-aubu3um5d1at0ldtdkrptsr15lhp0ks9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
